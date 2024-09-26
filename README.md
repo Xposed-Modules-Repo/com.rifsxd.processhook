@@ -33,13 +33,13 @@ Hook specific process/apps/games to spoof your device as different model/device 
 
 ## Getting Started
 
-To get started with Game Unlocker, follow these steps:
+To get started with Process Hook, follow these steps:
 
 1. Ensure that your Android device is rooted.
 
 2. Install the Xposed/Lsposed Framework on your device.
 
-3. Download the Game Unlocker module from the [releases section](https://github.com/rifsxd/process-hook/releases) of this repository.
+3. Download the Process Hook module from the [releases section](https://github.com/rifsxd/process-hook/releases) of this repository.
 
 4. Install the downloaded apk :
    - Open Xposed/Lsposed Manager.
